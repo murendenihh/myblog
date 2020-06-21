@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/myblog/app/Http/Controllers/ContactController.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/app/Post.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/views/post/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/views/home.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/views/post/edit.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/app/Http/Controllers/CategoryController.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/app/Category.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/js/custom.js</file>
+            <file>file:/C:/xampp/htdocs/myblog/app/Http/Controllers/BlogController.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/app/Http/Controllers/ManageController.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/views/category/create.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/webpack.mix.js</file>
+            <file>file:/C:/xampp/htdocs/myblog/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/app/Comment.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/views/contact.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/views/post/create.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/js/app.js</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/views/blog/welcome.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/app/Http/Controllers/CommentController.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/views/manage/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/app/Http/Controllers/PostController.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/views/blog/show.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myblog/resources/views/category/index.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
